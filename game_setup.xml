@@ -1,0 +1,5 @@
+<game>
+    <name>No Rookie</name>
+    <description>No Rookie</description>
+    <server>lua/NoRookieServer.lua</server>
+</game>
