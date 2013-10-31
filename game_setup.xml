@@ -1,5 +1,5 @@
 <game>
-    <name>No Rookie</name>
+    <name>ns2</name>
     <description>No Rookie</description>
-    <server>lua/NoRookieServer.lua</server>
+    <client>lua/NoRookieClient.lua</client>
 </game>
